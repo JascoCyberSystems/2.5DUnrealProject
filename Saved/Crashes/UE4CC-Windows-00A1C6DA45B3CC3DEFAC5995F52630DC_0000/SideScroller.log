@@ -1,0 +1,1262 @@
+﻿Log file open, 01/19/20 20:02:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SideScroller
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.068283
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i3-8145U CPU @ 2.10GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=wienersthekid -epicuserid=20d1b2960fa046f0bd5f9c9407cf217c -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Engine.ini]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Engine.ini]
+[2020.01.20-02.02.50:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Engine.ini]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Engine.ini]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.20-02.02.50:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Engine.ini]
+[2020.01.20-02.02.50:633][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Engine.ini]
+[2020.01.20-02.02.50:634][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.20-02.02.50:634][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.20-02.02.50:635][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.20-02.02.50:635][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.20-02.02.50:635][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.20-02.02.50:637][  0]LogHAL: Display: Platform has ~ 8 GB [8471760896 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.20-02.02.50:637][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.20-02.02.50:637][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.20-02.02.50:637][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Scalability.ini]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.20-02.02.50:638][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Config/Windows/Engine.ini]
+[2020.01.20-02.02.50:638][  0]LogInit: Computer: LAPTOP-0C17440U
+[2020.01.20-02.02.50:638][  0]LogInit: User: deja
+[2020.01.20-02.02.50:638][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.01.20-02.02.50:638][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.20-02.02.50:638][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.01.20-02.02.50:638][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.20-02.02.50:638][  0]LogMemory: Process Physical Memory: 98.94 MB used, 98.95 MB peak
+[2020.01.20-02.02.50:638][  0]LogMemory: Process Virtual Memory: 98.37 MB used, 98.37 MB peak
+[2020.01.20-02.02.50:638][  0]LogMemory: Physical Memory: 4945.74 MB used,  3133.56 MB free, 8079.30 MB total
+[2020.01.20-02.02.50:638][  0]LogMemory: Virtual Memory: 4664.35 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.01.20-02.02.50:640][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.20-02.02.50:657][  0]LogInit: Using OS detected language (en-US).
+[2020.01.20-02.02.50:657][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.20-02.02.50:657][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.20-02.02.50:813][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.20-02.02.50:857][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.20-02.02.50:857][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.20-02.02.50:983][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.20-02.02.50:983][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.20-02.02.51:016][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.01.20-02.02.51:016][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.01.20-02.02.51:019][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.20-02.02.51:019][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.20-02.02.51:019][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.20-02.02.51:028][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.20-02.02.51:028][  0]LogD3D11RHI:     GPU DeviceId: 0x3ea0 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.20-02.02.51:028][  0]LogWindows: EnumDisplayDevices:
+[2020.01.20-02.02.51:028][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.01.20-02.02.51:028][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.01.20-02.02.51:029][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.01.20-02.02.51:029][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.01.20-02.02.51:029][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2020.01.20-02.02.51:029][  0]LogD3D11RHI:   Driver Version: 25.20.100.6471 (internal:25.20.100.6471, unified:25.20.100.6471)
+[2020.01.20-02.02.51:029][  0]LogD3D11RHI:      Driver Date: 12-12-2018
+[2020.01.20-02.02.51:029][  0]LogRHI: Texture pool is 1503 MB (70% of 2147 MB)
+[2020.01.20-02.02.51:191][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.01.20-02.02.51:191][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.20-02.02.51:203][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.01.20-02.02.51:502][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.20-02.02.51:509][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.20-02.02.51:516][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.20-02.02.51:524][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.20-02.02.51:554][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.20-02.02.51:579][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.20-02.02.51:593][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.20-02.02.51:602][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.20-02.02.51:607][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.20-02.02.51:665][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.20-02.02.51:666][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.20-02.02.51:822][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.20-02.02.51:822][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.20-02.02.51:848][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.20-02.02.51:848][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.20-02.02.51:855][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.20-02.02.51:861][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.20-02.02.51:867][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.20-02.02.51:912][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.20-02.02.51:945][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.20-02.02.51:945][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.20-02.02.51:945][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.20-02.02.51:953][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.20-02.02.52:143][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Intermediate/Shaders/WorkingDirectory/5384/).
+[2020.01.20-02.02.52:143][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/deja_/AppData/Local/Temp/UnrealShaderWorkingDir/129359A14ABE49F0A66239804C330189/'.
+[2020.01.20-02.02.52:147][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.20-02.02.52:148][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.20-02.02.52:148][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.20-02.03.04:167][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.20-02.03.04:878][  0]LogDerivedDataCache: Loaded boot cache 0.71s 73MB C:/Users/deja_/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.20-02.03.04:878][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/deja_/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.20-02.03.04:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.20-02.03.04:878][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.20-02.03.04:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.20-02.03.04:878][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.20-02.03.04:888][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.20-02.03.04:888][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.20-02.03.04:888][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.20-02.03.04:889][  0]LogDerivedDataCache: Using Local data cache path C:/Users/deja_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.20-02.03.04:890][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.20-02.03.04:890][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.20-02.03.04:909][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.20-02.03.04:912][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.20-02.03.04:969][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.20-02.03.06:807][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.01.20-02.03.07:028][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.20-02.03.07:601][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.20-02.03.07:601][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.20-02.03.07:601][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.20-02.03.07:601][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.20-02.03.07:601][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.20-02.03.07:659][  0]LogNetVersion: SideScroller 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3228164743)
+[2020.01.20-02.03.08:284][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.108224 seconds
+[2020.01.20-02.03.08:291][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.20-02.03.08:291][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.20-02.03.08:291][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.20-02.03.28:253][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.20-02.03.28:289][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.20-02.03.28:337][  0]SourceControl: Source control is disabled
+[2020.01.20-02.03.28:337][  0]SourceControl: Source control is disabled
+[2020.01.20-02.03.28:338][  0]SourceControl: Source control is disabled
+[2020.01.20-02.03.28:339][  0]SourceControl: Source control is disabled
+[2020.01.20-02.03.29:096][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.20-02.03.29:620][  0]LogOcInput: OculusInput pre-init called
+[2020.01.20-02.03.29:625][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.20-02.03.29:625][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.20-02.03.29:723][  0]LogEngine: Initializing Engine...
+[2020.01.20-02.03.29:723][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.20-02.03.29:724][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.20-02.03.29:932][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.20-02.03.29:947][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.20-02.03.30:115][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-02.03.30:536][  0]LogInit: FAudioDevice initialized.
+[2020.01.20-02.03.30:536][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.20-02.03.31:165][  0]LogDerivedDataCache: Saved boot cache 0.63s 73MB C:/Users/deja_/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.20-02.03.31:179][  0]LogInit: Texture streaming: Enabled
+[2020.01.20-02.03.31:215][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.20-02.03.31:236][  0]LogInit: Transaction tracking system initialized
+[2020.01.20-02.03.31:263][  0]BlueprintLog: New page: Editor Load
+[2020.01.20-02.03.31:348][  0]LogInit: Warning: CVar named 'r.MobileHDR' marked up in RendererSettings was not found or is set to read-only
+[2020.01.20-02.03.31:422][  0]LocalizationService: Localization service is disabled
+[2020.01.20-02.03.32:448][  0]LogFileCache: Scanning file cache for directory 'C:/Users/deja_/Documents/Unreal Projects/SideScroller/Content/' took 0.00s
+[2020.01.20-02.03.32:448][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.20-02.03.32:448][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.20-02.03.34:421][  0]SourceControl: Source control is disabled
+[2020.01.20-02.03.34:770][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.23/FeaturePacks/StarterContent.upack)
+[2020.01.20-02.03.35:144][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.01.20-02.03.35:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.01.20-02.03.35:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.01.20-02.03.35:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.01.20-02.03.35:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.01.20-02.03.35:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.01.20-02.03.35:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.01.20-02.03.35:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.01.20-02.03.35:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.01.20-02.03.35:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.01.20-02.03.35:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.01.20-02.03.35:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.01.20-02.03.35:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.01.20-02.03.35:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.01.20-02.03.35:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.01.20-02.03.35:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.01.20-02.03.35:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.01.20-02.03.35:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.01.20-02.03.36:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Fire01.uasset"
+[2020.01.20-02.03.36:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.01.20-02.03.36:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.01.20-02.03.36:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.01.20-02.03.36:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Light01.uasset"
+[2020.01.20-02.03.36:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.01.20-02.03.36:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Light02.uasset"
+[2020.01.20-02.03.36:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.01.20-02.03.36:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.01.20-02.03.36:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.01.20-02.03.36:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.01.20-02.03.36:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.01.20-02.03.37:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.01.20-02.03.37:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.01.20-02.03.37:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.01.20-02.03.37:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.01.20-02.03.37:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Steam01.uasset"
+[2020.01.20-02.03.37:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.01.20-02.03.37:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.01.20-02.03.38:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.01.20-02.03.38:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.01.20-02.03.38:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.01.20-02.03.38:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.01.20-02.03.39:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.01.20-02.03.39:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.01.20-02.03.39:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.01.20-02.03.39:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.01.20-02.03.39:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.01.20-02.03.39:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.01.20-02.03.39:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.01.20-02.03.39:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.01.20-02.03.39:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.01.20-02.03.39:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.01.20-02.03.39:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.01.20-02.03.40:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.01.20-02.03.40:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.01.20-02.03.41:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.01.20-02.03.41:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.01.20-02.03.41:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.01.20-02.03.41:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/StarterMap.umap"
+[2020.01.20-02.03.43:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.01.20-02.03.43:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.01.20-02.03.43:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.01.20-02.03.44:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.01.20-02.03.44:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.01.20-02.03.44:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.01.20-02.03.45:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.01.20-02.03.45:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.01.20-02.03.45:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.01.20-02.03.45:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.01.20-02.03.45:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.01.20-02.03.45:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.01.20-02.03.45:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.01.20-02.03.45:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.01.20-02.03.45:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.01.20-02.03.45:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.01.20-02.03.45:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.01.20-02.03.45:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.01.20-02.03.45:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.01.20-02.03.46:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.01.20-02.03.46:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.01.20-02.03.46:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.01.20-02.03.46:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.01.20-02.03.46:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.01.20-02.03.46:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.01.20-02.03.46:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.01.20-02.03.46:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.01.20-02.03.46:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.01.20-02.03.46:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.01.20-02.03.46:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.01.20-02.03.46:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.01.20-02.03.46:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.01.20-02.03.47:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.01.20-02.03.47:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.01.20-02.03.47:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.01.20-02.03.47:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.01.20-02.03.47:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.01.20-02.03.47:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.01.20-02.03.47:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.01.20-02.03.47:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.01.20-02.03.47:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.01.20-02.03.47:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.01.20-02.03.47:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.01.20-02.03.47:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.01.20-02.03.47:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.01.20-02.03.47:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.01.20-02.03.48:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.01.20-02.03.48:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.01.20-02.03.48:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.01.20-02.03.48:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.01.20-02.03.49:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.01.20-02.03.49:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.01.20-02.03.49:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.01.20-02.03.49:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.01.20-02.03.49:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.01.20-02.03.49:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.01.20-02.03.49:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.01.20-02.03.49:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.01.20-02.03.49:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.01.20-02.03.49:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.01.20-02.03.49:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.01.20-02.03.49:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.01.20-02.03.50:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.01.20-02.03.50:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.01.20-02.03.50:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.01.20-02.03.50:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Door.uasset"
+[2020.01.20-02.03.50:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.01.20-02.03.50:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.01.20-02.03.50:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.01.20-02.03.50:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.01.20-02.03.50:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.01.20-02.03.50:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.01.20-02.03.51:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.01.20-02.03.51:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.01.20-02.03.51:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.01.20-02.03.51:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.01.20-02.03.51:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.01.20-02.03.51:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.01.20-02.03.51:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.01.20-02.03.51:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.01.20-02.03.51:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.01.20-02.03.51:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.01.20-02.03.51:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.01.20-02.03.51:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.01.20-02.03.51:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.01.20-02.03.51:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.01.20-02.03.51:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.01.20-02.03.51:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.01.20-02.03.51:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.01.20-02.03.51:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.01.20-02.03.51:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.01.20-02.03.51:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.01.20-02.03.52:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.01.20-02.03.52:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.01.20-02.03.52:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.01.20-02.03.52:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.01.20-02.03.52:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.01.20-02.03.52:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.01.20-02.03.52:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.01.20-02.03.52:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.01.20-02.03.52:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.01.20-02.03.52:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.01.20-02.03.52:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.01.20-02.03.52:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.01.20-02.03.52:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.01.20-02.03.52:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.01.20-02.03.52:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.01.20-02.03.52:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.01.20-02.03.52:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.01.20-02.03.52:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.01.20-02.03.53:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.01.20-02.03.53:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.01.20-02.03.53:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.01.20-02.03.53:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.01.20-02.03.54:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.01.20-02.03.54:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.01.20-02.03.54:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.01.20-02.03.54:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.01.20-02.03.55:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.01.20-02.03.55:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.01.20-02.03.55:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.01.20-02.03.55:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.01.20-02.03.56:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.01.20-02.03.56:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.01.20-02.03.56:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.01.20-02.03.56:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.01.20-02.03.56:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.01.20-02.03.56:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.01.20-02.03.56:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.01.20-02.03.56:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.01.20-02.03.56:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.01.20-02.03.57:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.01.20-02.03.57:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.01.20-02.03.57:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.01.20-02.03.59:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.01.20-02.03.59:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.01.20-02.03.59:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.01.20-02.03.59:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.01.20-02.03.59:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.01.20-02.04.00:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.01.20-02.04.00:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.01.20-02.04.00:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.01.20-02.04.00:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.01.20-02.04.01:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.01.20-02.04.01:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.01.20-02.04.01:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.01.20-02.04.02:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.01.20-02.04.02:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.01.20-02.04.02:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.01.20-02.04.02:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.01.20-02.04.02:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.01.20-02.04.03:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.01.20-02.04.03:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.01.20-02.04.03:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.01.20-02.04.03:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.01.20-02.04.03:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.01.20-02.04.03:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.01.20-02.04.03:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.01.20-02.04.03:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.01.20-02.04.04:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.01.20-02.04.04:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.01.20-02.04.04:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.01.20-02.04.04:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.01.20-02.04.05:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.01.20-02.04.05:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.01.20-02.04.05:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.01.20-02.04.06:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.01.20-02.04.06:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.01.20-02.04.06:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.01.20-02.04.07:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.01.20-02.04.07:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.01.20-02.04.07:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.01.20-02.04.07:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.01.20-02.04.07:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.01.20-02.04.07:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.01.20-02.04.07:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.01.20-02.04.07:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.01.20-02.04.07:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.01.20-02.04.08:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.01.20-02.04.08:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.01.20-02.04.10:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.01.20-02.04.11:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.01.20-02.04.12:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.01.20-02.04.14:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.01.20-02.04.15:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.01.20-02.04.15:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.01.20-02.04.15:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.01.20-02.04.15:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.01.20-02.04.16:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.01.20-02.04.16:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.01.20-02.04.16:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.01.20-02.04.16:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.01.20-02.04.16:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.01.20-02.04.17:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.01.20-02.04.17:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.01.20-02.04.17:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.01.20-02.04.17:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.01.20-02.04.18:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.01.20-02.04.18:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.01.20-02.04.18:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.01.20-02.04.18:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.01.20-02.04.18:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.01.20-02.04.18:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.01.20-02.04.19:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.01.20-02.04.19:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.01.20-02.04.19:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.01.20-02.04.19:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.01.20-02.04.19:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.01.20-02.04.20:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.01.20-02.04.20:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.01.20-02.04.20:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.01.20-02.04.20:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.01.20-02.04.20:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.01.20-02.04.22:234][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.01.20-02.04.23:777][  0]LogSavePackage: Moving '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Floor_400x4003A977CAC47EABEB28FDB76A0115D9D88.tmp' to '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.01.20-02.04.24:163][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.01.20-02.04.24:172][  0]Cmd: MAP LOAD FILE="../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.20-02.04.24:173][  0]LightingResults: New page: Lighting Build
+[2020.01.20-02.04.24:178][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-02.04.24:178][  0]MapCheck: New page: Map Check
+[2020.01.20-02.04.24:178][  0]LightingResults: New page: Lighting Build
+[2020.01.20-02.04.24:231][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.01.20-02.04.25:014][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.01.20-02.04.25:601][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.20-02.04.26:102][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.01.20-02.04.26:102][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.20-02.04.26:102][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2020.01.20-02.04.26:102][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 1.931
+[2020.01.20-02.04.27:756][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-02.04.27:777][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-02.04.27:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-02.04.27:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-02.04.28:247][  0]LogCollectionManager: Loaded 0 collections in 0.004335 seconds
+[2020.01.20-02.04.29:116][  0]LogFileCache: Scanning file cache for directory 'C:/Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Collections/' took 0.00s
+[2020.01.20-02.04.29:116][  0]LogFileCache: Scanning file cache for directory 'C:/Users/deja_/Documents/Unreal Projects/SideScroller/Content/Developers/deja/Collections/' took 0.00s
+[2020.01.20-02.04.29:116][  0]LogFileCache: Scanning file cache for directory 'C:/Users/deja_/Documents/Unreal Projects/SideScroller/Content/Collections/' took 0.00s
+[2020.01.20-02.04.29:116][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2020.01.20-02.04.29:154][  0]LogContentBrowser: Native class hierarchy populated in 0.0234 seconds. Added 2863 classes and 680 folders.
+[2020.01.20-02.04.29:641][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.20-02.04.30:142][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.20-02.04.30:766][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2020.01.20-02.04.33:311][  0]LogSlate: Took 0.121192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.20-02.04.33:337][  0]LogSlate: Took 0.023118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.20-02.04.33:962][  0]LogSlate: Took 0.085707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.20-02.04.35:490][  0]LogRenderer: Reallocating scene render targets to support 848x408 Format 10 NumSamples 1 (Frame:1).
+[2020.01.20-02.04.37:581][  0]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.20-02.04.38:245][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.20-02.04.38:246][  0]LogLoad: (Engine Initialization) Total time: 108.55 seconds
+[2020.01.20-02.04.38:246][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.20-02.04.38:826][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.20-02.04.39:100][  1]LogAssetRegistry: Asset discovery search completed in 92.2935 seconds
+[2020.01.20-02.04.39:103][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.01.20-02.04.39:103][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2020.01.20-02.08.23:627][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-02.08.23:732][330]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-02.08.23:835][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-02.08.23:869][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-02.08.23:971][330]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 19, 2020, 2:08:23 PM)
+[2020.01.20-02.08.23:998][330]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.20-02.08.24:125][330]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.20-02.08.24:199][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072938s)
+[2020.01.20-02.08.24:223][330]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.01.20-02.08.24:239][330]LogPlayLevel: PIE: World Init took: (0.040234s)
+[2020.01.20-02.08.24:239][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.114186s)
+[2020.01.20-02.08.24:298][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.01.20-02.08.24:354][330]LogInit: XAudio2 using 'Speaker/Headphone (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-02.08.24:368][330]LogInit: FAudioDevice initialized.
+[2020.01.20-02.08.24:421][330]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.01.20-02.08.24:688][330]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2020.01.19-20.08.24
+[2020.01.20-02.08.24:857][330]LogWorld: Bringing up level for play took: 0.170638
+[2020.01.20-02.08.24:877][330]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.01.20-02.08.25:114][330]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.01.20-02.08.25:133][330]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 2.19
+[2020.01.20-02.08.25:133][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-02.09.24:018][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-02.09.24:091][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-02.09.24:092][840]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.20-02.09.24:092][840]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-02.09.24:208][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-02.09.24:209][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-02.09.24:267][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-02.09.24:287][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.20-02.09.24:301][841]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.01.20-02.09.35:137][363]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.09.37:062][455]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.09.38:931][532]LogSlate: Window 'Undo History' being destroyed
+[2020.01.20-02.09.38:959][532]LogSlate: Window 'Undo History' being destroyed
+[2020.01.20-02.09.40:873][622]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2020.01.20-02.09.41:956][622]LogEditorViewport: Clicking on Component (LMB): CameraComponent (SideViewCameraComponent)
+[2020.01.20-02.09.45:454][733]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.01.20-02.09.45:518][733]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2020.01.20-02.09.47:316][784]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2020.01.20-02.09.47:396][784]LogEditorViewport: Clicking on Component (LMB): PaperFlipbookComponent (Sprite0)
+[2020.01.20-02.09.48:466][821]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.01.20-02.09.58:009][216]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.01.20-02.09.58:306][216]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.10.02:444][386]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.10.11:848][772]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.01.20-02.10.11:915][772]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2020.01.20-02.10.12:561][800]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2020.01.20-02.10.12:628][800]LogEditorViewport: Clicking on Actor (double click): PaperSpriteActor (Background_Sprite)
+[2020.01.20-02.10.19:594][ 84]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.01.20-02.10.19:658][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.10.19:665][ 84]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.01.20-02.10.19:697][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.10.20:430][106]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.01.20-02.10.20:492][106]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.10.20:640][113]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.01.20-02.10.20:701][113]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.10.20:777][115]LogEditorViewport: Clicking on Component (context menu): PaperSpriteComponent (RenderComponent)
+[2020.01.20-02.10.20:940][115]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.10.21:696][147]LogEditorViewport: Clicking on Component (context menu): PaperSpriteComponent (RenderComponent)
+[2020.01.20-02.10.21:727][147]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.10.22:699][189]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2020.01.20-02.10.40:920][959]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2020.01.20-02.10.40:959][959]LogEditorViewport: Clicking on Actor (double click): PaperSpriteActor (Background_Sprite)
+[2020.01.20-02.10.44:857][125]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.10.46:002][172]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.46:002][172]LogEditorTransaction: Undo Move Actors
+[2020.01.20-02.10.46:546][172]LogSlate: Took 0.392051 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.20-02.10.46:562][173]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.46:562][173]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2020.01.20-02.10.46:738][180]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.46:738][180]LogEditorTransaction: Undo Move Components
+[2020.01.20-02.10.46:928][188]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.46:928][188]LogEditorTransaction: Undo Clicking on Component (context menu)
+[2020.01.20-02.10.47:096][195]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.47:096][195]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2020.01.20-02.10.47:308][204]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.47:308][204]LogEditorTransaction: Undo Clicking on Components
+[2020.01.20-02.10.47:502][212]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.47:502][212]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.20-02.10.47:694][219]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.47:694][219]LogEditorTransaction: Undo Clicking on Components
+[2020.01.20-02.10.47:865][224]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.47:865][224]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.20-02.10.48:036][229]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.48:036][229]LogEditorTransaction: Undo Clicking on Components
+[2020.01.20-02.10.48:230][236]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.48:230][236]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.20-02.10.48:423][236]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.48:423][236]LogEditorTransaction: Undo Clicking on Components
+[2020.01.20-02.10.48:573][240]Cmd: TRANSACTION UNDO
+[2020.01.20-02.10.48:573][240]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.20-02.11.36:648][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-02.11.49:144][237]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.01.20-02.13.21:268][112]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.13.21:652][126]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.13.24:263][232]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/UI/LevelEditor/Viewports/ViewportControls/index.html
+[2020.01.20-02.15.38:582][175]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-02.15.38:659][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.01.20-02.15.39:602][175]LogSavePackage: Moving '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/2DSideScrollerExampleMap_Auto1ABCC04124A63C1CAF71B4D930739E122.tmp' to '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2020.01.20-02.15.39:678][175]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 1.043
+[2020.01.20-02.15.39:678][175]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.043
+[2020.01.20-02.30.53:214][997]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.33.13:020][414]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.35.16:974][784]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.35.53:852][894]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.36.30:743][  4]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.36.57:894][ 85]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.37.53:235][250]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.55.14:665][677]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.55.32:072][729]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.56.26:292][891]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.56.34:997][917]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.57.26:620][ 71]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-02.57.32:325][ 88]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.00.36:129][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-03.00.36:257][962]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-03.00.36:285][962]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-03.00.36:285][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-03.00.36:285][962]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 19, 2020, 3:00:36 PM)
+[2020.01.20-03.00.36:285][962]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.20-03.00.36:292][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006982s)
+[2020.01.20-03.00.36:295][962]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.01.20-03.00.36:295][962]LogPlayLevel: PIE: World Init took: (0.003062s)
+[2020.01.20-03.00.36:295][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.010359s)
+[2020.01.20-03.00.36:324][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.01.20-03.00.36:364][962]LogInit: XAudio2 using 'Speaker/Headphone (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-03.00.36:401][962]LogInit: FAudioDevice initialized.
+[2020.01.20-03.00.36:409][962]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.01.20-03.00.36:411][962]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2020.01.19-21.00.36
+[2020.01.20-03.00.36:411][962]LogWorld: Bringing up level for play took: 0.001235
+[2020.01.20-03.00.36:412][962]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.01.20-03.00.36:414][962]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.529
+[2020.01.20-03.00.36:414][962]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-03.00.47:781][638]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-03.00.47:781][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-03.00.47:781][638]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.20-03.00.47:781][638]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-03.00.47:796][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-03.00.47:796][638]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-03.00.47:819][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-03.00.47:821][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.01.20-03.00.47:882][641]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.01.20-03.01.01:636][311]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.01.20-03.01.07:106][560]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.01.20-03.01.07:167][560]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-03.01.21:438][128]Cmd: DUPLICATE
+[2020.01.20-03.01.21:438][128]Cmd: ACTOR DUPLICATE
+[2020.01.20-03.01.30:792][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-03.01.35:950][749]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2020.01.20-03.01.36:014][749]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-03.01.41:596][953]Cmd: ACTOR MIRROR Z=-1
+[2020.01.20-03.01.52:686][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-03.01.52:818][461]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-03.01.52:844][461]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-03.01.52:844][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-03.01.52:844][461]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 19, 2020, 3:01:52 PM)
+[2020.01.20-03.01.52:844][461]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.20-03.01.52:848][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004037s)
+[2020.01.20-03.01.52:850][461]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.01.20-03.01.52:867][461]LogPlayLevel: PIE: World Init took: (0.018754s)
+[2020.01.20-03.01.52:867][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.023032s)
+[2020.01.20-03.01.52:902][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.01.20-03.01.52:908][461]LogInit: XAudio2 using 'Speaker/Headphone (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-03.01.52:924][461]LogInit: FAudioDevice initialized.
+[2020.01.20-03.01.52:938][461]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.01.20-03.01.52:941][461]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2020.01.19-21.01.52
+[2020.01.20-03.01.52:942][461]LogWorld: Bringing up level for play took: 0.002931
+[2020.01.20-03.01.52:943][461]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.01.20-03.01.52:948][461]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.005
+[2020.01.20-03.01.52:948][461]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-03.02.02:900][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-03.02.02:902][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-03.02.02:902][ 54]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.20-03.02.02:902][ 54]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-03.02.02:917][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-03.02.02:917][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.20-03.02.02:941][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-03.02.02:943][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.01.20-03.02.03:008][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.01.20-03.02.05:225][171]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.01.20-03.02.46:303][996]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-03.02.46:354][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.20-03.02.46:533][996]LogSavePackage: Moving '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/2DSideScrollerExampleMap_Auto2F13AD69A4C0DFA6570057D9C8978C168.tmp' to '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2020.01.20-03.02.46:538][996]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.208
+[2020.01.20-03.02.46:538][996]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.208
+[2020.01.20-03.19.02:383][449]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.19.20:813][504]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.19.40:272][562]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.20.10:496][652]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.20.28:923][707]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.20.36:611][730]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.20.46:333][759]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.21.47:338][941]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.25.54:776][679]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.26.51:121][847]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.27.50:506][ 24]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.28.08:965][ 79]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.28.39:163][169]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.29.31:464][325]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.30.47:194][551]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.30.55:907][577]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.32.17:363][820]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.32.38:840][884]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.33.00:309][948]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.33.58:633][122]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.35.17:492][357]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.35.57:399][476]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.38.13:491][882]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.38.32:909][940]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.38.41:621][966]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.39.07:744][ 44]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.39.48:668][166]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.40.36:288][308]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.41.11:132][412]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.43.01:715][742]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.43.47:309][878]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.44.53:425][ 75]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.45.40:039][214]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.47.40:432][573]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.48.24:004][703]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.49.58:804][986]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.51.16:611][218]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.51.45:792][305]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.52.05:221][363]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.52.47:117][488]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.53.58:192][700]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.54.41:781][830]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.55.33:078][983]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.56.10:009][ 93]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.56.39:183][180]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.56.51:932][218]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.57.12:356][279]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.58.17:398][473]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-03.59.50:537][751]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.00.08:964][806]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.00.38:137][893]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.00.48:863][925]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.00.57:584][951]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.01.28:805][ 44]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.02.12:398][174]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.04.29:190][582]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.07.15:602][ 78]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.09.23:044][458]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.09.31:745][484]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.09.43:507][519]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.09.53:229][548]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.12.19:121][983]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.13.11:366][139]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.13.31:805][200]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.13.59:958][284]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.16.16:699][692]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.16.26:426][721]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.16.47:917][785]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.17.30:878][913]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.18.31:916][ 95]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.21.09:852][566]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.22.12:881][754]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.24.24:646][147]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.25.21:979][318]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.27.27:300][692]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.28.20:589][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.29.24:588][ 42]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.30.23:934][219]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.30.51:102][300]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.31.33:677][427]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.32.25:316][581]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.33.08:868][711]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.36.28:665][307]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.36.38:380][336]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.36.47:106][362]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.38.10:664][611]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.38.58:256][753]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.39.16:699][808]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.42.28:105][379]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.42.55:259][460]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.43.24:398][547]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.44.44:840][787]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.45.44:805][966]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.46.34:459][114]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.47.48:599][335]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.49.29:491][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.49.45:899][685]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-04.52.27:482][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-04.52.33:708][945]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2020.01.20-04.52.37:017][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-04.52.41:520][279]Cmd: DELETE
+[2020.01.20-04.52.41:520][279]Cmd: ACTOR DELETE
+[2020.01.20-04.52.41:659][279]LogEditorActor: Deleted Actor: TextRenderActor
+[2020.01.20-04.52.41:728][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.01.20-04.52.41:741][279]LogEditorActor: Deleted 1 Actors (0.220 secs)
+[2020.01.20-04.53.06:719][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.01.20-04.53.06:828][530]LogSavePackage: Moving '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/2DSideScrollerExampleMap_Auto3044E0EB4401747D2D238AC8F9DC8835B.tmp' to '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap'
+[2020.01.20-04.53.06:831][530]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.135
+[2020.01.20-04.53.06:831][530]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.135
+[2020.01.20-04.53.17:221][ 63]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2020.01.20-04.53.35:949][885]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2020.01.20-04.53.40:183][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-04.53.40:348][ 43]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.20-04.53.41:488][ 43]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2020.01.20-04.53.43:447][ 43]LogSlate: Took 0.039909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.20-04.53.43:860][ 44]LogSlate: Took 0.021310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.20-04.54.12:759][940]LogRenderer: Reallocating scene render targets to support 848x596 Format 10 NumSamples 1 (Frame:1).
+[2020.01.20-04.59.23:526][888]LogSlate: Window 'Tutorials' being destroyed
+[2020.01.20-04.59.39:109][329]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite2)
+[2020.01.20-05.00.27:794][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-05.23.46:529][233]LogEditorViewport: Clicking Background
+[2020.01.20-05.23.51:201][428]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-05.54.14:803][242]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-05.54.42:967][326]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-05.54.52:683][355]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-05.55.45:380][512]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-05.56.55:463][721]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-05.58.34:088][ 15]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.01.20-06.06.42:549][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-06.06.42:727][536]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.01.20-06.06.42:737][536]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.01.20-06.06.42:762][536]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-06.07.58:665][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.20-06.09.04:029][968]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.20-06.10.02:016][612]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.01.20-06.10.29:460][833]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.01.20-06.10.29:460][833]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.117
+[2020.01.20-06.10.29:464][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomFiles/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.01.20-06.10.29:464][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomFiles/Blueprints/2DSideScrollerCharacter]
+[2020.01.20-06.10.29:607][833]LogSavePackage: Moving '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/2DSideScrollerCharacter_Auto4AD5D8C93437C67805DC58BA2BBD9E6E0.tmp' to '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Autosaves/Game/CustomFiles/Blueprints/2DSideScrollerCharacter_Auto4.uasset'
+[2020.01.20-06.10.29:608][833]LogFileHelpers: Auto-saving content packages took 0.146
+[2020.01.20-06.11.55:108][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.01.20-06.11.55:127][650]LogMetaData: Removing '/Game/CustomFiles/Blueprints/2D_Guy.SKEL_2D_Guy_C' ref from Metadata '/Game/CustomFiles/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.20-06.11.55:127][650]LogMetaData: Removing '/Game/CustomFiles/Blueprints/2D_Guy.2D_Guy_C' ref from Metadata '/Game/CustomFiles/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.01.20-06.11.55:229][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomFiles/Blueprints/2D_Guy" FILE="../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/CustomFiles/Blueprints/2D_Guy.uasset" SILENT=true
+[2020.01.20-06.11.55:281][650]LogSavePackage: Moving '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/2D_GuyEEFDB85E4FFDE814C0B867AD6CA68CB9.tmp' to '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/CustomFiles/Blueprints/2D_Guy.uasset'
+[2020.01.20-06.11.55:413][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.01.20-06.11.55:442][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.01.20-06.11.55:466][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.01.20-06.11.57:811][748]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.20-06.15.54:642][140]LogObjectTools: Deleting 1 worlds: /Game/CustomFiles/Maps/NewWorld.NewWorld
+[2020.01.20-06.15.54:642][140]LogObjectTools: Currently 3 active worlds: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2020.01.20-06.15.54:682][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.01.20-06.15.56:320][140]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.20-06.15.56:433][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.01.20-06.16.00:459][251]LogSlate: Window 'New Level' being destroyed
+[2020.01.20-06.16.11:167][251]LogSlate: Window 'Save Content' being destroyed
+[2020.01.20-06.16.11:213][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.01.20-06.16.11:372][251]LogSavePackage: Moving '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/2DSideScrollerExampleMap184E1E6B4F5F5C24452A4EAFD30F5B16.tmp' to '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.01.20-06.16.11:398][251]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.214
+[2020.01.20-06.16.11:437][251]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.20-06.16.11:446][251]LightingResults: New page: Lighting Build
+[2020.01.20-06.16.11:446][251]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.01.20-06.16.11:459][251]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-06.16.11:461][251]MapCheck: New page: Map Check
+[2020.01.20-06.16.11:461][251]LightingResults: New page: Lighting Build
+[2020.01.20-06.16.11:493][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.01.20-06.16.11:573][251]LogAIModule: Creating AISystem for world Untitled_1
+[2020.01.20-06.16.11:674][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.20-06.16.11:704][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.01.20-06.16.11:710][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.20-06.16.11:710][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2020.01.20-06.16.11:710][251]LogFileHelpers: Loading map 'Template_Default' took 0.308
+[2020.01.20-06.16.11:726][251]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.01.20-06.16.47:293][734]LogSlate: Window 'Save Level As' being destroyed
+[2020.01.20-06.16.47:450][734]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.01.20-06.16.47:509][734]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.01.20-06.16.47:625][734]LogSavePackage: Moving '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Level_001A1B046F4C4318FB62AD5BAD220F876A.tmp' to '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/CustomFiles/Maps/Level_00.umap'
+[2020.01.20-06.16.47:689][734]LogSavePackage: Moving '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Level_00_BuiltDataD21695C74C05A23B343AA6B506FF6372.tmp' to '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/CustomFiles/Maps/Level_00_BuiltData.uasset'
+[2020.01.20-06.16.47:696][734]LogFileHelpers: Saving map 'Level_00' took 0.349
+[2020.01.20-06.16.47:697][734]Cmd: MAP LOAD FILE="../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Content/CustomFiles/Maps/Level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.20-06.16.47:705][734]LightingResults: New page: Lighting Build
+[2020.01.20-06.16.47:706][734]LoadErrors: New page: Loading map: Level_00.umap
+[2020.01.20-06.16.47:706][734]LogWorld: UWorld::CleanupWorld for Level_00, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-06.16.47:707][734]MapCheck: New page: Map Check
+[2020.01.20-06.16.47:707][734]LightingResults: New page: Lighting Build
+[2020.01.20-06.16.47:733][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.01.20-06.16.47:756][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.01.20-06.16.47:781][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.01.20-06.16.47:793][734]LogAIModule: Creating AISystem for world Level_00
+[2020.01.20-06.16.47:853][734]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.20-06.16.47:876][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.01.20-06.16.47:895][734]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.20-06.16.47:895][734]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2020.01.20-06.16.47:895][734]LogFileHelpers: Loading map 'Level_00' took 0.199
+[2020.01.20-06.18.43:787][868]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.01.20-06.18.43:819][868]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.01.20-06.18.48:700][932]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.01.20-06.19.56:665][148]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.20-06.19.56:701][148]LogSlate: Window 'Project Settings' being destroyed
+[2020.01.20-06.20.02:777][374]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-06.20.02:890][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/CustomFiles/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2020.01.20-06.20.02:890][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-06.20.02:890][374]PIE: New page: PIE session: Level_00 (Jan 19, 2020, 6:20:02 PM)
+[2020.01.20-06.20.02:891][374]LogPlayLevel: Creating play world package: /Game/CustomFiles/Maps/UEDPIE_0_Level_00
+[2020.01.20-06.20.02:899][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007961s)
+[2020.01.20-06.20.02:902][374]LogAIModule: Creating AISystem for world Level_00
+[2020.01.20-06.20.02:903][374]LogPlayLevel: PIE: World Init took: (0.003372s)
+[2020.01.20-06.20.02:903][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CustomFiles/Maps/Level_00.Level_00 to /Game/CustomFiles/Maps/UEDPIE_0_Level_00.Level_00 (0.011920s)
+[2020.01.20-06.20.03:005][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.20-06.20.03:020][374]LogInit: XAudio2 using 'Speaker/Headphone (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.20-06.20.03:035][374]LogInit: FAudioDevice initialized.
+[2020.01.20-06.20.03:044][374]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.01.20-06.20.03:045][374]LogWorld: Bringing World /Game/CustomFiles/Maps/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 60) at 2020.01.20-00.20.03
+[2020.01.20-06.20.03:045][374]LogWorld: Bringing up level for play took: 0.000575
+[2020.01.20-06.20.03:045][374]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.01.20-06.20.03:223][374]PIE: Play in editor start time for /Game/CustomFiles/Maps/UEDPIE_0_Level_00 0.28
+[2020.01.20-06.20.03:223][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/CustomFiles/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2020.01.20-06.20.15:000][ 43]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/CustomFiles/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2020.01.20-06.20.15:001][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-06.20.15:001][ 43]LogWorld: BeginTearingDown for /Game/CustomFiles/Maps/UEDPIE_0_Level_00
+[2020.01.20-06.20.15:001][ 43]LogWorld: UWorld::CleanupWorld for Level_00, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-06.20.15:048][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-06.20.15:048][ 43]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/CustomFiles/Maps/Level_00.Level_00_C' with ClassGeneratedBy '/Game/CustomFiles/Maps/Level_00.Level_00:PersistentLevel.Level_00'
+[2020.01.20-06.20.15:088][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-06.20.15:107][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.01.20-06.20.15:132][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.01.20-06.26.05:957][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-06.26.37:461][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.01.20-06.26.37:461][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CustomFiles/Maps/Level_00' took 0.029
+[2020.01.20-06.26.37:463][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode] ([1] browsable assets)...
+[2020.01.20-06.26.37:463][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode]
+[2020.01.20-06.26.37:482][ 53]LogSavePackage: Moving '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/2DSideScrollerGameMode_Auto5745A8D4941079BAEAE79DAAD5A084C4B.tmp' to '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode_Auto5.uasset'
+[2020.01.20-06.26.37:483][ 53]LogFileHelpers: Auto-saving content packages took 0.021
+[2020.01.20-06.41.18:421][228]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\deja_\Downloads\Game Projects\2DProjectSource\Character.png)
+[2020.01.20-06.41.18:533][228]LogTexture: Display: Building textures: Character (AutoDXT, 256X256)
+[2020.01.20-06.41.45:807][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.01.20-06.41.45:808][126]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/CustomFiles/Maps/Level_00' took 0.025
+[2020.01.20-06.41.45:809][126]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomFiles/Sprites/Guy/Character] ([1] browsable assets)...
+[2020.01.20-06.41.45:814][126]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/CustomFiles/Sprites/Guy/Character.Character]
+[2020.01.20-06.41.45:814][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomFiles/Sprites/Guy/Character]
+[2020.01.20-06.41.45:825][126]LogSavePackage: Moving '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Character_Auto621961AEF40606D893CA0FE8EA4C11B62.tmp' to '../../../../../../Users/deja_/Documents/Unreal Projects/SideScroller/Saved/Autosaves/Game/CustomFiles/Sprites/Guy/Character_Auto6.uasset'
+[2020.01.20-06.41.45:826][126]LogFileHelpers: Auto-saving content packages took 0.017
+[2020.01.20-06.41.48:188][211]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/CustomFiles/Sprites/Guy/Character.Character
+[2020.01.20-06.41.48:425][211]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2020.01.20-06.42.12:209][949]LogSlate: Window 'Character' being destroyed
+[2020.01.20-06.42.12:245][949]LogSlate: Window 'Character' being destroyed
+[2020.01.20-06.43.03:225][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.01.20-06.43.04:625][675]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.20-06.43.04:702][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.01.20-06.43.09:224][827]LogTexture: Display: Building textures: Character (BGRA8, 256X256)
+[2020.01.20-06.43.19:940][214]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/CustomFiles/Sprites/Guy/Character.Character
+[2020.01.20-06.43.24:403][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.20-06.43.53:145][251]LogSlate: Window 'Character' being destroyed
+[2020.01.20-06.43.53:181][251]LogSlate: Window 'Character' being destroyed
+[2020.01.20-06.44.18:373][ 52]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.20-06.44.25:964][299]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.20-06.44.39:665][744]LogSlate: Window 'Extract sprites' being destroyed
+[2020.01.20-06.45.06:519][739]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/CustomFiles/Sprites/Guy/Character_Sprite_0.Character_Sprite_0
+[2020.01.20-06.45.06:872][739]LogRenderer: Reallocating scene render targets to support 1084x616 Format 10 NumSamples 1 (Frame:1).
